@@ -1,1 +1,3 @@
-# README
+about me 
+-- Hoang Phuc Lam
+-- ...
